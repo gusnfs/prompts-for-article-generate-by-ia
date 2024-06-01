@@ -1,0 +1,33 @@
+# CHECKLIST DE PARA GERAR ARTIGOS DE QUALIDADE
+- [] Definir o assunto
+- [] Título chamativo: headline
+- [] Imagem de capa chamativa
+- [] Blocos do artigo
+- [] Postar o artigo com um call to action
+
+## Assunto: 
+Programação - Iniciantes
+
+## Título
+Programação Descomplicada: Um Roteiro Prático para Iniciantes
+
+## Capa
+Feito com Lexica.Art e Power Point
+
+## Blocos
+
+Comporte-se como um escritor de artigos sobre programação e escreve o Artigo atendendo as regras abaixo:
+
+{REGRAS}
+> No máximo 5 linhas por blocos de explicação
+> Me explique de maneira informal, como se eu fosse uma criança de 10 anos.
+> Os blocos que serão criados estão abaixo:
+- O que é programação?
+  - Cite as linguagens mais utilizadas no mundo
+-Programação para iniciantes
+  - Onde começar?
+- Faça um call to action para as minhas redes sociais
+- Coloque 3 hashtags que façam sentido
+
+Ilustrações de capa: gerada pela lexica.art
+Conteúdo gerado por: ChatGPT e revisões humanas
